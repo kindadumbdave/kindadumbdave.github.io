@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+## How can I help? 🧑🏾‍💻🎟️
 
-You can use the [editor on GitHub](https://github.com/kindadumbdave/kindadumbdave.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here's a few things that I like to do daily, should you feel my knowledge and experience could be of value to you and yours then please go ahead and get in touch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Available Services:
 
-### Markdown
++ Consulting
++ Software Development
++ Business Operations
++ Youth Development Coaching
++ Movement | Breathwork | Recovery
++ Marathon Coach
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Java ☕🫘
 
-```markdown
-Syntax highlighted code block
+My journey with Java has just started. Apart from passing the Java SE 8 Programmer I Exam there's a few added tools that go into forming a decent junior fullstack software developer. Luckily for me my interpersonal skills require less attention, allowing the focus to be on getting my hands dirty. Here's cheeky Magic trick to show it's not all smoke and mirrors...
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+```Magic Trick
 
-1. Numbered
-2. List
+public class Magic {
+	public static void main(String[] args) {
 
-**Bold** and _Italic_ and `Code` text
+int myNumber = 786;
 
-[Link](url) and ![Image](src)
+int stepOne = myNumber * myNumber;
+
+int stepTwo = stepOne + myNumber;
+int stepThree = stepTwo / myNumber;
+int stepFour = stepThree + 17;
+int stepFive = stepFour - myNumber;
+int stepSix = stepFive / 6;
+System.out.println(stepSix);
+		
+
+	}
+}
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more projects check out my Github page [Profile_URL](https://github.com/kindadumbdave)
 
-### Jekyll Themes
+### Movement
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kindadumbdave/kindadumbdave.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Running, and movement on the whole, is a huge part of my life. Many modern jobs are desk based and often dont see us moving enough through our day. I advocate for a minimlaistic lifestyle that incorporates natural movement in all tasks. All with conscious practices and protocols for healthier more effective movement, a focus is placed on breathing. Teaching and mastering various breathing rythms for outcomes such as control, healing, power, and recovery. Specialized recovery protocols have been refined and developed through years of experience to yield immediate to long term results.
 
-### Support or Contact
+### Contact Me
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The easiest way to get in touch would be via email at [email_URL](vermeulend002@gmail.com). Alternatively you get drop me a WhatsApp on [mobile_num](+27606169909) ![whatsapp_QR](https://github.com/kindadumbdave/kindadumbdave.github.io/blob/main/86663.jpg)
