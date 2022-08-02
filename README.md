@@ -41,8 +41,8 @@ For more projects check out my Github page [Profile_URL](https://github.com/kind
 
 ### Movement
 
-Running, and movement on the whole, is a huge part of my life. Many modern jobs are desk based and often dont see us moving enough through our day. I advocate for a minimlaistic lifestyle that incorporates natural movement in all tasks. All with conscious practices and protocols for healthier more effective movement, a focus is placed on breathing. Teaching and mastering various breathing rythms for outcomes such as control, healing, power, and recovery. Specialized recovery protocols have been refined and developed through years of experience to yield immediate to long term results.
+Running, and movement on the whole, is a huge part of my life. Many modern jobs are 'office' based and often dont see us moving enough throughout the day. I advocate for a minimlaistic lifestyle that incorporates natural movement in all tasks. Conscious practices and protocols for healthier more effective movement, a significant focus is placed on breathing. Teaching and mastering various breathing rythms for outcomes such as control, healing, power, and recovery. Specialized recovery protocols have been refined and developed through years of experience to yield immediate to long term results.
 
 ### Contact Me
 
-The easiest way to get in touch would be via email at [email_URL](vermeulend002@gmail.com). Alternatively you get drop me a WhatsApp on [mobile_num](+27606169909) ![whatsapp_QR](https://github.com/kindadumbdave/kindadumbdave.github.io/blob/main/86663.jpg)
+The easiest way to get in touch would be via [email](vermeulend002@gmail.com). Alternatively you can drop me a [WhatsApp](+27606169909) ![whatsapp_QR](https://github.com/kindadumbdave/kindadumbdave.github.io/blob/main/86663.jpg)
