@@ -8,15 +8,16 @@ Here's a few things that I like to do daily, should you feel my knowledge and ex
 + Software Development
 + Business Operations
 + Youth Development Coaching
-+ Movement | Breathwork | Recovery
++ Movement - Breathwork - Recovery
 + Marathon Coach
 
 ### Java ☕🫘
 
 My journey with Java has just started. Apart from passing the Java SE 8 Programmer I Exam there's a few added tools that go into forming a decent junior fullstack software developer. Luckily for me my interpersonal skills require less attention, allowing the focus to be on getting my hands dirty. Here's cheeky Magic trick to show it's not all smoke and mirrors...
 
+###Magic Trick
+```
 
-```Magic Trick
 
 public class Magic {
 	public static void main(String[] args) {
@@ -35,6 +36,7 @@ System.out.println(stepSix);
 
 	}
 }
+
 ```
 
 For more projects check out my Github page [Profile_URL](https://github.com/kindadumbdave)
