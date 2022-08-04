@@ -8,8 +8,6 @@ Here's a few things that I like to do daily, should you feel my knowledge and ex
 
 + Business Operations
 
-+ Facilities & Utilities
-
 + Software Development
 
 + Systems Administration
