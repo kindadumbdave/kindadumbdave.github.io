@@ -15,7 +15,7 @@ Here's a few things that I like to do daily, should you feel my knowledge and ex
 
 My journey with Java has just started. Apart from passing the Java SE 8 Programmer I Exam there's a few added tools that go into forming a decent junior fullstack software developer. Luckily for me my interpersonal skills require less attention, allowing the focus to be on getting my hands dirty. Here's cheeky Magic trick to show it's not all smoke and mirrors...
 
-###Magic Trick
+### Magic Trick
 ```
 
 
@@ -27,10 +27,15 @@ int myNumber = 786;
 int stepOne = myNumber * myNumber;
 
 int stepTwo = stepOne + myNumber;
+
 int stepThree = stepTwo / myNumber;
+
 int stepFour = stepThree + 17;
+
 int stepFive = stepFour - myNumber;
+
 int stepSix = stepFive / 6;
+
 System.out.println(stepSix);
 		
 
@@ -39,7 +44,7 @@ System.out.println(stepSix);
 
 ```
 
-For more projects check out my Github page [Profile_URL](https://github.com/kindadumbdave)
+For more projects check out my Github [profile](https://github.com/kindadumbdave)
 
 ### Movement
 
