@@ -4,12 +4,17 @@ Here's a few things that I like to do daily, should you feel my knowledge and ex
 
 ### Available Services:
 
-+ Consulting
-+ Software Development
-+ Business Operations
++ Technical Management Consulting	|+ Business Operations	|+ Facilities & Utilities
+
++ Software Development	|+ Systems Administration	|+ Cloud Services - SME Migration to the Cloud
+
++ Automotive Assesments - Evaluation & Full Inspection
+
 + Youth Development Coaching
+
 + Movement - Breathwork - Recovery
-+ Marathon Coach
+
++ Marathon Coaching
 
 ### Java ☕🫘
 
@@ -52,4 +57,4 @@ Running, and movement on the whole, is a huge part of my life. Many modern jobs 
 
 ### Contact Me
 
-The easiest way to get in touch would be via [email](vermeulend002@gmail.com). Alternatively you can drop me a [WhatsApp](+27606169909) ![whatsapp_QR](https://github.com/kindadumbdave/kindadumbdave.github.io/blob/main/86663.jpg)
+The easiest way to get in touch would be via [email](mailto:vermeulend002@gmail.com). Alternatively you can drop me a [WhatsApp](wa.link/if8wk1) ![whatsapp_QR](https://github.com/kindadumbdave/kindadumbdave.github.io/blob/main/wa.link_if8wk1.png)
