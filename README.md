@@ -16,13 +16,11 @@ Here's a few things that I like to do daily, should you feel my knowledge and ex
 
 + Cloud Services - SME migration to the Cloud
 
-+ Automotive Assesments - Evaluation & Full Inspection
-
 + Youth Development Coaching
 
 + Movement - Breathwork - Recovery
-
-+ Marathon Coaching
+	
+		
 
 ### Java ☕🫘
 
