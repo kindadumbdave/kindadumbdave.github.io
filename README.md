@@ -57,16 +57,19 @@ System.out.println(stepSix);
 
 ```
 
-If you like what you see you can [buy me coffee](https://buymeacoffee.com/dadv)☕ and don't forget to check out my Github [profile](https://github.com/kindadumbdave)
+		
+If you like what you see you can [buy me coffee](https://buymeacoffee.com/dadv)☕ and don't forget to check out my Github [profile](https://github.com/kindadumbdave).
 
 
 ### Movement
 
-Running, and movement on the whole, is a huge part of my life. Many modern jobs are 'office' based and often dont see us moving enough throughout the day. I advocate for a minimlaistic lifestyle that incorporates natural movement in all tasks. Conscious practices and protocols for healthier more effective movement, a significant focus is placed on breathing. Teaching and mastering various breathing rythms for outcomes such as control, healing, power, and recovery. Specialized recovery protocols have been refined and developed through years of experience to yield immediate to long term results.
+Running, and movement on the whole, is a huge part of my life. Many modern jobs are 'office' based and often dont see us moving enough throughout the day. I advocate for a minimlaistic lifestyle that incorporates natural movement in all tasks. Conscious practices and protocols for healthier more effective movement, a significant focus is placed on breathing. Teaching and mastering various breathing rythms for outcomes such as control, healing, power, and recovery. Specialized recovery protocols have been refined and developed through years of experience to yield immediate to long term results. 	
+
 ![Follow me on Strava](https://badges.strava.com/logo-strava.png "Strava")
 
 
 ### Contact Me
 
-The easiest way to get in touch would be via [email](mailto:vermeulend002@gmail.com?). Alternatively you can drop me a [WhatsApp](https://api.whatsapp.com/send?phone=27606169909&text=Hello%20Dave%20%F0%9F%98%81) 
+The easiest way to get in touch would be via [email](mailto:vermeulend002@gmail.com?). Alternatively you can drop me a [WhatsApp](https://api.whatsapp.com/send?phone=27606169909&text=Hello%20Dave%20%F0%9F%98%81) 	
+
 ![WhatsApp QR Code](https://github.com/kindadumbdave/kindadumbdave.github.io/blob/main/wa.link_if8wk1.png "QR_Code")
